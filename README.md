@@ -1,1 +1,1 @@
-# MC_Potatoes_Serve
+# Welcome to Potato Server
